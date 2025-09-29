@@ -425,7 +425,7 @@ __metadata:
   resolution: "app@workspace:."
   dependencies:
     esbuild: "npm:^0.25.2"
-    govuk-frontend: "npm:5.8.0"
+    govuk-frontend: "npm:5.12.0"
     sass: "npm:^1.86.3"
   languageName: unknown
   linkType: soft
@@ -732,10 +732,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"govuk-frontend@npm:5.8.0":
-  version: 5.8.0
-  resolution: "govuk-frontend@npm:5.8.0"
-  checksum: 10c0/b70ea33c47ce893fac0759c49c0350a960b51241add3a5a8e81c88aea299600cb18439711ee28f93474d1a99002ac2994b486f7b75ebd0f187ebc878f363b340
+"govuk-frontend@npm:5.12.0":
+  version: 5.12.0
+  resolution: "govuk-frontend@npm:5.12.0"
+  checksum: 10c0/52091b9ebeebbff81f8bdc6762a89fe26a047835abf7a9c9e9cde5c71256969f68b9df8cba24b6d3b45d60eb4f19d96b31ae5cd33ee20e95b33fe10f141e62c1
   languageName: node
   linkType: hard
 
